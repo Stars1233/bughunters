@@ -138,11 +138,6 @@ product {
   tier: IT2
 }
 product {
-  name: "Apigee API Platform"
-  tier: IT2
-  hostnames: "apigee.googleapis.com"
-}
-product {
   name: "Application Integration"
   tier: IT2
   hostnames: "integrations.googleapis.com"
@@ -410,6 +405,11 @@ product {
 product {
   name: "API Registry"
   tier: IT3
+}
+product {
+  name: "Apigee API Platform"
+  tier: IT3
+  hostnames: "apigee.googleapis.com"
 }
 product {
   name: "App Hub"
