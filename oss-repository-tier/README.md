@@ -68,7 +68,6 @@ For more information on tiers and reward amounts, please see
 | https://github.com/google/shaderc                     | OT1  |
 | https://github.com/google/site-kit-wp                 | OT1  |
 | https://github.com/google/zerocopy                    | OT1  |
-| https://github.com/googleforgames/agones              | OT1  |
 | https://github.com/googlemaps/android-maps-utils      | OT1  |
 | https://github.com/jax-ml/jax                         | OT1  |
 | https://github.com/keras-team/keras                   | OT1  |

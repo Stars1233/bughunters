@@ -199,11 +199,6 @@ repository {
   product_vuln_scope: SCOPE_OSS_VRP
 }
 repository {
-  url: "https://github.com/googleforgames/agones"
-  tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
-}
-repository {
   url: "https://github.com/google/filament"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
