@@ -1,0 +1,1 @@
+See [here](/learn/invalid-reports/web-platform/csrf-clickjacking/xss-or-csrf-that-requires-header-injection)
