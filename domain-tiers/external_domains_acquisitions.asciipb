@@ -3868,6 +3868,11 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "intrinsic.ai"
+  tier: TIER1
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
   fqdn: "iafwsjwcmh.com"
   tier: TIER1
 }
@@ -3882,6 +3887,11 @@ domain: {
 domain: {
   fqdn: "opensky.wing.com"
   tier: TIER1
+}
+domain: {
+  fqdn: "intrinsic.equipment"
+  tier: TIER1
+  propagate_tier_to_direct_subdomains: true
 }
 domain: {
   fqdn: "wayfinder.goog"
@@ -3946,6 +3956,11 @@ domain: {
 domain: {
   fqdn: "opensky-staging.wing.com"
   tier: TIER2
+}
+domain: {
+  fqdn: "intrinsic.dev"
+  tier: TIER2
+  propagate_tier_to_direct_subdomains: true
 }
 domain: {
   fqdn: "deepmind.host"
