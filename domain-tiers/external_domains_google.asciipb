@@ -1075,6 +1075,10 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "enterprise.gemini.google.com"
+  tier: TIER2
+}
+domain: {
   fqdn: "lti.gemini.google.com"
   tier: TIER2
 }
