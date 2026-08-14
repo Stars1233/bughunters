@@ -15,6 +15,11 @@ featured at https://bughunters.google.com/.
 
 * [Rewarded Patches](patch-rewards-program/rewarded-patches/)
 
+## Bughunters
+
+* The `bughunters` folder is a copy of the public website content.
+
+
 
 Note: This link might be stale for a few days as it only updates weekly. You can run the copybara command manually: `copybara migrate security/vrp/oss/repositories/external/copy.bara.sky repositories_to_github`
 #### Note:
