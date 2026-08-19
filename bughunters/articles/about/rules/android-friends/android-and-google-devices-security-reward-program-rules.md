@@ -364,6 +364,11 @@ reports submitted to the VRP at any period of time may not utilize Alphabet
 proprietary, confidential, or need-to-know information. We will evaluate every
 submission on a case-by-case basis.
 
+Participation in the program is restricted to individuals aged 18 and older. To
+enable us to formally evaluate (and, if applicable, reward) your report, if
+you're under 18 years of age, please have a parent, guardian, or other trusted
+adult submit the report on your behalf.
+
 If you are employed by a hardware or software vendor partnered with Google, you
 are ineligible for rewards for vulnerabilities found in products, code, or
 services related to your employer’s partnership with Google.

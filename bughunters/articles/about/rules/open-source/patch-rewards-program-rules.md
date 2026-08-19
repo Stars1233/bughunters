@@ -229,6 +229,11 @@ patches submitted to the reward program at any period of time may not utilize
 Alphabet proprietary, confidential, or need-to-know information. We will
 evaluate every submission on a case-by-case basis.
 
+Participation in the program is restricted to individuals aged 18 and older. To
+enable us to formally evaluate (and, if applicable, reward) your patch, if
+you're under 18 years of age, please have a parent, guardian, or other trusted
+adult submit the patch on your behalf.
+
 You are responsible for any tax implications depending on your country of
 residency and citizenship. There may be additional restrictions on your ability
 to enter depending upon your local law.
