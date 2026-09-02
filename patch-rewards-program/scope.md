@@ -82,7 +82,6 @@ Package                                                                         
 [Knockout](https://github.com/knockout/knockout)                                               | Prior to 1/2025 | Popular web frameworks and libraries
 [Polymer](https://github.com/Polymer/polymer)                                                  | Prior to 1/2025 | Popular web frameworks and libraries
 [Struts](https://struts.apache.org/index.html)                                                 | Prior to 1/2025 | Popular web frameworks and libraries
-[Web2py](https://github.com/web2py/web2py)                                                     | Prior to 1/2025 | Popular web frameworks and libraries
 [Wicket](https://github.com/apache/wicket)                                                     | Prior to 1/2025 | Popular web frameworks and libraries
 [CiviForm](https://github.com/civiform/civiform)                                               | Prior to 1/2025 | Public-interest open source applications supported by Google.org
 [Linux kernel](https://github.com/torvalds/linux)                                              | Prior to 1/2025 | Security-critical, commonly used components of the Linux kernel (including KVM)
